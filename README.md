@@ -11,7 +11,7 @@
 Motivated IT professional and **BSIT undergraduate (Class of 2027)** with hands-on experience in **Python development, Data Analytics, and Machine Learning**. Proficient in **NumPy, Pandas, Matplotlib, SQL, and TensorFlow**, with a strong ability to transform raw data into actionable insights and AI-powered solutions. Skilled in building data-driven applications, creating visual dashboards, and implementing predictive models. Recognized for academic excellence with a **CGPA of 3.33**, certified in **Python, SQL, Data Visualization, and Machine Learning**, and eager to contribute technical expertise to innovative projects in data science and AI.  
 
 ---
-
+#skilss details
 <h2 align="center">🛠 Skills</h2>  
 
 - **Programming & Tools**: Python, C++, Assembly Language, PyCharm  
