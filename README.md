@@ -2,7 +2,7 @@
 <p align="center">🚀 Python Developer | 📊 Data Analyst | 🤖 Machine Learning Enthusiast</p>  
 
 <p align="center">📍 Lahore, Pakistan | 📧 namrahoaib75@gmail.com | 📱 +92 335 4060298</p>  
-<p align="center">🔗 <a href="https://www.linkedin.com/in/namra-shoaib-188503345">LinkedIn</a> | 💻 <a href="https://github.com/your-username">GitHub</a></p>  
+<p align="center">🔗 <a href="https://www.linkedin.com/in/namra-shoaib-188503345">LinkedIn</a> 
 
 ---
 
