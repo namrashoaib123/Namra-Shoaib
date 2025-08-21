@@ -2,7 +2,7 @@
 <p align="center">🚀 Python Developer | 📊 Data Analyst | 🤖 Machine Learning Enthusiast</p>  
 
 <p align="center">📍 Lahore, Pakistan | 📧 namrahoaib75@gmail.com | 📱 0335 4060298</p>  
-<p align="center">🔗 <a href="https://www.linkedin.com/in/namra-shoaib-188503345">LinkedIn</a> 
+<p align="center">🔗 <a href="https://www.linkedin.com/in/namra-shoaib-188503345">LinkedIn</a> </p>  
 
 ---
 
@@ -33,24 +33,22 @@ Motivated IT professional and **BSIT undergraduate (Class of 2027)** with hands-
 
 <h2 align="center">📜 Certifications</h2>  
 
-- Basics of Matplotlib – Cambridge International Qualifications, UK (Aug 2025)  
-- Basics of Data Visualization Using Python – Cambridge International Qualifications, UK (Jul 2025)  
-- Basics of Python – Cambridge International Qualifications, UK (Jul 2025)  
-- Python (Programming Language) – HackerRank (Mar 2025)  
-- SQL (Basic, Intermediate, Advanced) – HackerRank (Mar 2025)  
-- Scientific Computing with Python – freeCodeCamp (Jan 2025)  
-- Data Analysis with Python – freeCodeCamp (Jan 2025)  
-- Machine Learning with Python – freeCodeCamp (Jan 2025)  
-- College Algebra with Python – freeCodeCamp (Jan 2025)  
+- 📊 **Basics of Matplotlib** – Cambridge International Qualifications, UK (Aug 2025)  
+- 📈 **Basics of Data Visualization Using Python** – Cambridge International Qualifications, UK (Jul 2025)  
+- 🐍 **Basics of Python** – Cambridge International Qualifications, UK (Jul 2025)  
+- 💻 **Python (Programming Language)** – HackerRank (Mar 2025)  
+- 🗄️ **SQL (Basic, Intermediate, Advanced)** – HackerRank (Mar 2025)  
+- 🔬 **Scientific Computing with Python** – freeCodeCamp (Jan 2025)  
+- 📊 **Data Analysis with Python** – freeCodeCamp (Jan 2025)  
+- 🤖 **Machine Learning with Python** – freeCodeCamp (Jan 2025)  
+- ➗ **College Algebra with Python** – freeCodeCamp (Jan 2025)  
 
 ---
 
 <h2 align="center">🚀 Projects</h2>  
 
 - 📊 **Data Visualization Dashboard** – Built interactive charts using Python & Matplotlib.  
-
 - 🤖 **Machine Learning Models** – Implemented ML algorithms for predictive analytics.  
-
 - 📂 **Scientific Computing** – Applied Python for algebra & problem-solving tasks.  
 
 ---
@@ -58,5 +56,4 @@ Motivated IT professional and **BSIT undergraduate (Class of 2027)** with hands-
 <h2 align="center">🌐 Connect With Me</h2>  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/namra-shoaib-188503345)  
-
 - 📧 Email: namrahoaib75@gmail.com  
